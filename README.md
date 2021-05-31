@@ -2,7 +2,9 @@
 Analysis of the company PyBer using Python-Pandas and Matplotlib
 
 ## Overview
+
 PyBer is a ride -sharing app company, and to help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods, we have created  several types of visualizations and showcased the relationship between the type of city and the number of drivers and riders as well as the percentage of total fares, riders and drivers by type of city. We also analyze how the data differs by city type.
+
 ---
 
 ## Results
